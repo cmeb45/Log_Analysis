@@ -3,7 +3,7 @@
 import re
 import sys
 
-# Calculate total bandwidth sent by NASA webserver in July 1995
+# Calculate total bandwidth sent by NASA webserver
 
 def is_nasa(string):
     # Check if webserver has NASA domain name
